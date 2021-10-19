@@ -7,3 +7,4 @@ const initAuth = () => {
     initializeApp(firebaseConfig);
 }
 export default initAuth;
+
